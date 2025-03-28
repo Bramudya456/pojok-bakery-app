@@ -1,6 +1,4 @@
-﻿# pojok-bakery-app
-
- # Pojok Bakery App
+# Pojok Bakery App
 
 Aplikasi web sederhana untuk toko roti "Pojok Bakery". Aplikasi ini memungkinkan pengguna untuk melihat daftar produk roti yang tersedia, dan detail produk.
 
